@@ -1,0 +1,3 @@
+#Loose Logs Recorder(Looselr)
+#User area's data is take for user to call or use.It can visit.
+#System area's data is take for module self to call or use.It can not visit.
